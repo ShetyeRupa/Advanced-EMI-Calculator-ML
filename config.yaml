@@ -1,0 +1,9 @@
+MIN_CREDIT_SCORE: 620
+MAX_DEBT_TO_INCOME: 0.5
+LOAN_MULTIPLIER: 10
+
+MODEL_PATHS:
+  classifier: models/loan_classifier.pkl
+  regressor: models/loan_regressor.pkl
+
+ENCRYPTION_KEY: "j0GszDaQbZ30tyfcnTf61wGKhiDbo3hoIo1PVyyrx90="
