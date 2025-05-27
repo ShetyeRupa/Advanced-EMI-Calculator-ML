@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+models/
+results/
+loan_calculator.log
